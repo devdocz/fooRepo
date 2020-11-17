@@ -1,1 +1,3 @@
 This is 2nd foo text file
+
+Added second line
